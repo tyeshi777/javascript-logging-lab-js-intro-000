@@ -1,2 +1,2 @@
 console.error("HALP!");
-console.warn("DANG!");
+console.log("I would be a logger");
